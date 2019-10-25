@@ -26,8 +26,8 @@ if __name__ == '__main__':
         sys.exit(0)
 
     smtp_server = 'smtp.exmail.qq.com'
-    user_name   = 'pengliu@brandwisdom.cn'
-    user_passwd = 'P@ssw0rd`'
+    user_name   = 'xxxx@brandwisdom.cn'
+    user_passwd = 'xxxx`'
 
     to_email_address = sys.argv[1].split(",")
     to_message_head  = sys.argv[2]
